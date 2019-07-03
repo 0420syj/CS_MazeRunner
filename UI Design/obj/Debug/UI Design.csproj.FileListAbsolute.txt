@@ -1,0 +1,11 @@
+C:\Users\Son\source\repos\UI Design\bin\Debug\UI Design.exe.config
+C:\Users\Son\source\repos\UI Design\bin\Debug\UI Design.exe
+C:\Users\Son\source\repos\UI Design\bin\Debug\UI Design.pdb
+C:\Users\Son\source\repos\UI Design\obj\Debug\UI Design.csprojAssemblyReference.cache
+C:\Users\Son\source\repos\UI Design\obj\Debug\UI_Design.Form1.resources
+C:\Users\Son\source\repos\UI Design\obj\Debug\UI_Design.Properties.Resources.resources
+C:\Users\Son\source\repos\UI Design\obj\Debug\UI Design.csproj.GenerateResource.cache
+C:\Users\Son\source\repos\UI Design\obj\Debug\UI Design.csproj.CoreCompileInputs.cache
+C:\Users\Son\source\repos\UI Design\obj\Debug\UI Design.exe
+C:\Users\Son\source\repos\UI Design\obj\Debug\UI Design.pdb
+C:\Users\Son\source\repos\UI Design\obj\Debug\Object_Moving.FormView.resources

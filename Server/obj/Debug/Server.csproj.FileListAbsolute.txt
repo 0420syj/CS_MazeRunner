@@ -1,0 +1,52 @@
+C:\Users\Son\Desktop\응소실최신\Server\bin\Debug\Server.exe.config
+C:\Users\Son\Desktop\응소실최신\Server\bin\Debug\Server.exe
+C:\Users\Son\Desktop\응소실최신\Server\bin\Debug\Server.pdb
+C:\Users\Son\Desktop\응소실최신\Server\bin\Debug\ClassLibrary1.dll
+C:\Users\Son\Desktop\응소실최신\Server\bin\Debug\ClassLibrary1.pdb
+C:\Users\Son\Desktop\응소실최신\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Son\Desktop\응소실최신\Server\obj\Debug\Server.Form1.resources
+C:\Users\Son\Desktop\응소실최신\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Son\Desktop\응소실최신\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Son\Desktop\응소실최신\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Son\Desktop\응소실최신\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Son\Desktop\응소실최신\Server\obj\Debug\Server.exe
+C:\Users\Son\Desktop\응소실최신\Server\obj\Debug\Server.pdb
+C:\Users\user\Desktop\UI Design (2)\Server\bin\Debug\Server.exe.config
+C:\Users\user\Desktop\UI Design (2)\Server\bin\Debug\Server.exe
+C:\Users\user\Desktop\UI Design (2)\Server\bin\Debug\Server.pdb
+C:\Users\user\Desktop\UI Design (2)\Server\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Desktop\UI Design (2)\Server\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Desktop\UI Design (2)\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\user\Desktop\UI Design (2)\Server\obj\Debug\Server.Form1.resources
+C:\Users\user\Desktop\UI Design (2)\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\user\Desktop\UI Design (2)\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\user\Desktop\UI Design (2)\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UI Design (2)\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\user\Desktop\UI Design (2)\Server\obj\Debug\Server.exe
+C:\Users\user\Desktop\UI Design (2)\Server\obj\Debug\Server.pdb
+C:\Users\Son\Desktop\real최신응소실\Server\bin\Debug\Server.exe.config
+C:\Users\Son\Desktop\real최신응소실\Server\bin\Debug\Server.exe
+C:\Users\Son\Desktop\real최신응소실\Server\bin\Debug\Server.pdb
+C:\Users\Son\Desktop\real최신응소실\Server\bin\Debug\ClassLibrary1.dll
+C:\Users\Son\Desktop\real최신응소실\Server\bin\Debug\ClassLibrary1.pdb
+C:\Users\Son\Desktop\real최신응소실\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Son\Desktop\real최신응소실\Server\obj\Debug\Server.Form1.resources
+C:\Users\Son\Desktop\real최신응소실\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Son\Desktop\real최신응소실\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Son\Desktop\real최신응소실\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Son\Desktop\real최신응소실\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Son\Desktop\real최신응소실\Server\obj\Debug\Server.exe
+C:\Users\Son\Desktop\real최신응소실\Server\obj\Debug\Server.pdb
+C:\Users\Son\Desktop\real최신응소실\realreal\Server\bin\Debug\Server.exe.config
+C:\Users\Son\Desktop\real최신응소실\realreal\Server\bin\Debug\Server.exe
+C:\Users\Son\Desktop\real최신응소실\realreal\Server\bin\Debug\Server.pdb
+C:\Users\Son\Desktop\real최신응소실\realreal\Server\bin\Debug\ClassLibrary1.dll
+C:\Users\Son\Desktop\real최신응소실\realreal\Server\bin\Debug\ClassLibrary1.pdb
+C:\Users\Son\Desktop\real최신응소실\realreal\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Son\Desktop\real최신응소실\realreal\Server\obj\Debug\Server.Form1.resources
+C:\Users\Son\Desktop\real최신응소실\realreal\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Son\Desktop\real최신응소실\realreal\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Son\Desktop\real최신응소실\realreal\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Son\Desktop\real최신응소실\realreal\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Son\Desktop\real최신응소실\realreal\Server\obj\Debug\Server.exe
+C:\Users\Son\Desktop\real최신응소실\realreal\Server\obj\Debug\Server.pdb
